@@ -1,2 +1,2 @@
-# OOPs-project
-This will contain the projects of Object oriented programing
+# Mini OOPs project
+This is the Tic-Tac-Toe game made using java
